@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tqsan191
-- 👀 I’m interested in soccer, books, music, traveling
-- 🌱 I’m currently learning IT at DUT
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @santq
+- 👀 I’m interested in soccer, books, music, traveling, ...
+- 🌱 I’m currently learning MSE at FSB-FPT
+- I'm working at Paracel Tech at an AI Engineer, Odoo dev
 - 📫 How to reach me sanbk191@gmail.com
 
 <!---
